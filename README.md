@@ -31,5 +31,4 @@
 ![Train-Test Graph](./Screenshots/Gender_Classifier_Confusion_Matrix_Validation_Data.png)
 ### Main Interface
 ![Detecting Interface](./Screenshots/Screenshot_1.png)
-### Session Summary
-![Session Summary](./Screenshots/Screenshot_2.png)
+
