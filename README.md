@@ -1,6 +1,6 @@
 <h1 align="center"><b>Real Time Gender Classifier by Voice</b></h1>
 
-#### Trained and developed the binary classification model which is able to classifies the gender (Male-Female) based on human voice module using Long-Short Term Memory Neural Network with hyper parameter tunnig with the input features Root Mean Squared Energy, MFCCs, Mel-Spectrogram with achiving the classification accuracy of 99% on Validation dataset.
+#### Trained and developed the binary classification model which can classify the gender (Male-Female) based on human voice module using Long-Short Term Memory Neural Network with hyperparameter tuning with the input features Root Mean Squared Energy, MFCCs, Mel-Spectrogram with achieving the classification accuracy of 99% on the Validation dataset.
 
 ## Overview
 - In this project I have used 2 different datasets which are the RAVDESS and the TESS dataset.
